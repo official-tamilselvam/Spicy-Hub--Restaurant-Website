@@ -26,3 +26,4 @@ This project showcases menu items, chef specials, gallery, contact section, and 
 Developer: **Tamilselvam A**  
 GitHub: (https://github.com/official-tamilselvam)
 Linkedin : (https://www.linkedin.com/in/tamil-selvam-276b47391)
+<img width="1362" height="654" alt="Screenshot 2025-11-17 135255" src="https://github.com/user-attachments/assets/db72f149-b000-4f8a-a149-5b445df38c56" />
